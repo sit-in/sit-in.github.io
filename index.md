@@ -1,46 +1,16 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 创宇分享
+tagline: 我的1234 
 ---
 {% include JB/setup %}
-
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+* [哈佛大学公开课：幸福课_全23集_网易公开课](http://v.163.com/special/positivepsychology/)
+* [Teahour.fm](http://teahour.fm/)
+* [Tiny4Voice](http://tiny4.org/voice/)
+* [态度改变与社会影响 (豆瓣)](http://book.douban.com/subject/2328178/)
+* [幸福的方法 (豆瓣)](http://book.douban.com/subject/20480823/)
+* [拆掉思维里的墙 (豆瓣)](http://book.douban.com/subject/4953695/)
+* [Haroopad - The Next Document processor based on Markdown](http://pad.haroopress.com/user.html)
+* [Oh My Star - Best way to keep your Github Stars](https://itunes.apple.com/us/app/oh-my-star-best-way-to-keep/id788446112?mt=12)
+* [Reeder for Mac](http://reederapp.com/mac/)
+* [My Git Star](http://mygitstar.herokuapp.com/)
