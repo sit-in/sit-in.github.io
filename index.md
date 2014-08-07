@@ -12,7 +12,7 @@ tagline: 我的1234
 * [Tiny4Voice](http://tiny4.org/voice/)
 
 ###三本书
-* [态度改变与社会影响 (豆瓣)](http://book.douban.com/subject/2328178/)
+* [态度改变与社会影响 (强烈推荐)](http://book.douban.com/subject/2328178/)
 * [幸福的方法 (豆瓣)](http://book.douban.com/subject/20480823/)
 * [拆掉思维里的墙 (豆瓣)](http://book.douban.com/subject/4953695/)
 
